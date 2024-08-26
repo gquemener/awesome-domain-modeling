@@ -15,6 +15,7 @@ Other modeling technics includes "data-driven modeling" (focusing on database ta
 # Articles
 
   - [Anemic Domain Model - Martin Fowler](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
+  - [Doctrine ORM - Adding behavior to Entities](https://www.doctrine-project.org/projects/doctrine-orm/en/3.2/tutorials/getting-started.html#adding-behavior-to-entities)
 
 # Videos
 
