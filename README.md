@@ -1,5 +1,8 @@
 # Awesome Domain Modeling
 
+> [!NOTE]
+> Whether you’re _modelling_ or _modeling_, you’re doing the same thing. The only difference is in the spelling—the one with the single L is preferred in the United States, while the one with two Ls is preferred everywhere else. [Source](https://www.grammarly.com/blog/modeling-or-modelling/)
+
 Domain Modeling is a technic aiming to resolve a business problem through the design of a set of small, well-shaped, models, collaborating with each others, based on the discovery and understanding of a (sub-)domain.
 
 It is closely related to Domain-Driven Design and is part of the Tactical side of this approach.
