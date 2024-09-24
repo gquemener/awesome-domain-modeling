@@ -10,13 +10,14 @@ Other modeling technics includes "data-driven modeling" (focusing on database ta
 
 # Books
 
-  - [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# - Scott Wlaschin](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)
+- [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# - Scott Wlaschin](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)
 
 # Articles
 
-  - [Anemic Domain Model - Martin Fowler](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
-  - [Doctrine ORM - Adding behavior to Entities](https://www.doctrine-project.org/projects/doctrine-orm/en/3.2/tutorials/getting-started.html#adding-behavior-to-entities)
+- [Anemic Domain Model - Martin Fowler](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
+- [Doctrine ORM - Adding behavior to Entities](https://www.doctrine-project.org/projects/doctrine-orm/en/3.2/tutorials/getting-started.html#adding-behavior-to-entities)
 
 # Videos
 
-  - [Making impossible state impossible - Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8)
+- [Domain Modelling - Yves Reynhout - DDD Europe 2019](https://www.youtube.com/watch?v=tjiuDQbkRFY) 19:14
+- [Making impossible state impossible - Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8) 25:05
