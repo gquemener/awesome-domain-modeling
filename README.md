@@ -14,6 +14,9 @@ Other modeling technics includes "data-driven modeling" (focusing on database ta
 # Books
 
 - [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# - Scott Wlaschin](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/)
+- [Effective Aggregate Design - Part I: Modeling a Single Aggregate - Vaughn Vernon](./docs/vernon_2011_1.pdf)
+- [Effective Aggregate Design - Part II: Making Aggregates Work Together - Vaughn Vernon](./docs/vernon_2011_2.pdf)
+- [Effective Aggregate Design - Part III: Gaining Insight Through Discovery - Vaughn Vernon](./docs/vernon_2011_3.pdf)
 
 # Articles
 
