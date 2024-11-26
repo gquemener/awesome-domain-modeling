@@ -28,3 +28,4 @@ Other modeling technics includes "data-driven modeling" (focusing on database ta
 
 - [Domain Modelling - Yves Reynhout - DDD Europe 2019](https://www.youtube.com/watch?v=tjiuDQbkRFY) 19:14
 - [Making impossible state impossible - Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8) 25:05
+- [Event Sourcery : A video course that covers the fundamentals of reactive systems and event sourcing, both theoretical and practical - Shawn McCool](https://www.youtube.com/playlist?list=PLQuwqoolg4aI6v1GvtRg3NgT0PBBHVqii) approx. 04:00:00 (the six first videos give a very good idea of what building blocks are available)
