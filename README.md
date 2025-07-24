@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Modeling is the act of building a simplification of a reality in order to solve a problem. Too simple and it will not solve the problem, too complex and it will become the new problem. A day-to-day example is a map. Tons of different kinds of maps exist (world map, city map, bicycle map, maritime map, subway map), and each is aiming to solve a very specific problem. A single map containing all those informations would most likely be unreadable and require an extensive amount of effort to use !
+Modeling is the act of building a simplification of a reality in order to solve a problem. Too simple and it will not solve the problem, too complex and it will become the new problem. A day-to-day example is a map. Tons of different kinds of maps exist (world map, city map, bicycle map, maritime map, subway map), and each is aiming to solve a very specific problem. Every version intentionaly omits details and a single map containing all those informations would most likely be unreadable and require an extensive amount of effort to use!
 
 > [!NOTE]
 > Whether you’re _modelling_ or _modeling_, you’re doing the same thing. The only difference is in the spelling—the one with the single L is preferred in the United States, while the one with two Ls is preferred everywhere else. [Source](https://www.grammarly.com/blog/modeling-or-modelling/)
