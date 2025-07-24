@@ -13,7 +13,7 @@ It is closely related to Domain-Driven Design and is part of the Tactical side o
 
 It is NOT related to any language, framework or paradigm.
 
-Other modeling technics includes "data-driven modeling" (focusing on database table structure), "class-driven modeling" (for UML based projects) or even [God Object](https://en.wikipedia.org/wiki/God_object).
+Other modeling technics includes "data-driven modeling" (focusing on database table structure), "class-driven modeling" (for UML based projects) or even [God Object](https://en.wikipedia.org/wiki/God_object) (which can be compared to the multi-purposes map that was described at the beginning of this section).
 
 ## Books
 
