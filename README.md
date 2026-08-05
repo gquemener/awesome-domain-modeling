@@ -32,6 +32,8 @@ Other modeling technics includes "data-driven modeling" (focusing on database ta
 
 ## Videos
 
+- [The Unreasonable Effectiveness of Constructive Data Modeling - Alexis King | SSW 2026 ](https://www.youtube.com/watch?v=0BXuYlNrUmE) 42:25
+  - [Notes](https://fego.github.io/notes_de_lecture/2026/07/30/Alexis-King-The-unreasonable-effectiveness-of-constructive-data-modeling.html) from [fego](https://github.com/fego) (FR)
 - [Domain Modelling - Yves Reynhout - DDD Europe 2019](https://www.youtube.com/watch?v=tjiuDQbkRFY) 19:14
 - [Making impossible state impossible - Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8) 25:05
 - [Event Sourcery : A video course that covers the fundamentals of reactive systems and event sourcing, both theoretical and practical - Shawn McCool](https://www.youtube.com/playlist?list=PLQuwqoolg4aI6v1GvtRg3NgT0PBBHVqii) approx. 04:00:00 (the six first videos give a very good idea of what building blocks are available)
