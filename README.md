@@ -32,6 +32,8 @@ Other modeling technics includes "data-driven modeling" (focusing on database ta
 - [Effective Aggregate Design - Part I: Modeling a Single Aggregate - Vaughn Vernon](./docs/vernon_2011_1.pdf)
 - [Effective Aggregate Design - Part II: Making Aggregates Work Together - Vaughn Vernon](./docs/vernon_2011_2.pdf)
 - [Effective Aggregate Design - Part III: Gaining Insight Through Discovery - Vaughn Vernon](./docs/vernon_2011_3.pdf)
+- [Secure by Design - Daniel Deogun, Dan Bergh Johnsson, Daniel Sawano](https://www.manning.com/books/secure-by-design)
+  - Chapter 4, section 4.3 lays out the five layers of validation, ordered from cheapest to most meaningful: origin, size, lexical content, syntax, and semantics. Only the last one belongs in the domain model, as business invariants.
 
 ## Articles
 
@@ -48,7 +50,10 @@ Other modeling technics includes "data-driven modeling" (focusing on database ta
   - [Notes](https://fego.github.io/notes_de_lecture/2026/07/30/Alexis-King-The-unreasonable-effectiveness-of-constructive-data-modeling.html) from [fego](https://github.com/fego) (FR)
 - [Domain Modelling - Yves Reynhout - DDD Europe 2019](https://www.youtube.com/watch?v=tjiuDQbkRFY) 19:14
 - [Making impossible state impossible - Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8) 25:05
+- [Secure by Domain-driven design - Jessica Kerr, Dan Bergh Johnsson, Daniel Deogun | Virtual DDD 2020](https://www.youtube.com/watch?v=BpMzn9AxNcw) 01:08:30
+  - Walkthrough of the ideas of _Secure by Design_, including the layers of validation and domain primitives
 - [Event Sourcery : A video course that covers the fundamentals of reactive systems and event sourcing, both theoretical and practical - Shawn McCool](https://www.youtube.com/playlist?list=PLQuwqoolg4aI6v1GvtRg3NgT0PBBHVqii) approx. 04:00:00 (the six first videos give a very good idea of what building blocks are available)
 
 ## Katas
+
 - [Tell don't ask : A legacy refactor kata, focused on the violation of the tell don't ask principle and the anemic domain model.](https://github.com/racingDeveloper/tell-dont-ask-kata)
