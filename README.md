@@ -1,5 +1,16 @@
 # Awesome Domain Modeling
 
+<!--toc:start-->
+
+- [Awesome Domain Modeling](#awesome-domain-modeling)
+  - [Introduction](#introduction)
+  - [Books](#books)
+  - [Articles](#articles)
+  - [Videos](#videos)
+  - [Katas](#katas)
+
+<!--toc:end-->
+
 ## Introduction
 
 Modeling is the act of building a simplification of a reality in order to solve a problem. Too simple and it will not solve the problem, too complex and it will become the new problem. A day-to-day example is a map. Tons of different kinds of maps exist (world map, city map, bicycle map, maritime map, subway map), and each is aiming to solve a very specific problem. Every version intentionaly omits details and a single map containing all those informations would most likely be unreadable and require an extensive amount of effort to use!
@@ -32,7 +43,8 @@ Other modeling technics includes "data-driven modeling" (focusing on database ta
 
 ## Videos
 
-- [The Unreasonable Effectiveness of Constructive Data Modeling - Alexis King | SSW 2026 ](https://www.youtube.com/watch?v=0BXuYlNrUmE) 42:25
+- [The One Question To Haunt Everyone: What is a DDD Aggregate? - Thomas Ploch - DDD Europe 2022](https://www.youtube.com/watch?v=zlFqjD2LKlE) 26:36
+- [The Unreasonable Effectiveness of Constructive Data Modeling - Alexis King | SSW 2026](https://www.youtube.com/watch?v=0BXuYlNrUmE) 42:25
   - [Notes](https://fego.github.io/notes_de_lecture/2026/07/30/Alexis-King-The-unreasonable-effectiveness-of-constructive-data-modeling.html) from [fego](https://github.com/fego) (FR)
 - [Domain Modelling - Yves Reynhout - DDD Europe 2019](https://www.youtube.com/watch?v=tjiuDQbkRFY) 19:14
 - [Making impossible state impossible - Richard Feldman](https://www.youtube.com/watch?v=IcgmSRJHu_8) 25:05
